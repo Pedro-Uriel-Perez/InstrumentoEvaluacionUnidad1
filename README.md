@@ -67,7 +67,7 @@ Mi......
 
 
 
-## Capturas de Evaluaciones de Curso de Python
+## Capturas de Evaluaciones de Curso de Python Fundamentals 2
 
 ### Examen Módulo 1
 <img src="https://github.com/user-attachments/assets/7e11ba68-8f1e-4caf-8794-24062e94e0a5" width="600" alt="Examen Módulo 2"/>

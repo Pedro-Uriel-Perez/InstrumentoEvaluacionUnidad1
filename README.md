@@ -1,20 +1,20 @@
-# Instrumento de Evaluación Unidad III - Personaje Navideño
-Instrumento de evaluación de la Unidad III de la materia IOT 
+# Instrumento de Evaluación Unidad I
+Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT 
 
 ## Información
 - **Alumno:** Pedro Uriel Pérez Monzón
 - **Grupo:** GDS0643
 - **N.Control:**  1223100428
-- **Materia:** Principios de IoT
+- **Materia:**  Aplicaciones de IoT
 
 # Códigos:
-## Placa ESP 32
+## INFORMACION AQUI
 https://drive.google.com/drive/folders/1qrrQ68OmAMHVsyNfuarPRMpN2UADjYsS?usp=drive_link
 
-## Placa ESP 32 S3
+## INFORMACION AQUI
 https://drive.google.com/drive/folders/1X6jZeg_6ULijYEA6FLuTeC4TZpiH4qyW?usp=drive_link
 
-# Flujo Node-Red
+# INFORMACION AQUI
 https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=drive_link
 
 ## Materiales utilizados:
@@ -44,16 +44,16 @@ https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=dri
 
 
 
-# Imagen de Personaje Oogie Boogie
+# Imagen AQUI
 <img src="https://github.com/user-attachments/assets/09cacb74-231c-4d00-81cc-1994c6237ecd" alt="Oogie Boogie" width="250">
 
-# Vídeo Explicativo
+# Para poner videos
 https://drive.google.com/drive/folders/1WNjS2-SH8_HnzyehVCT07pBtgmkf98uG?usp=sharing
 
-# Vídeo Demostrativo
+# Para poner videos
 https://vm.tiktok.com/ZMke2V9HD/
 
-# Imagen de Presentación
+# Imagen AQUI
 ![imagen](https://github.com/user-attachments/assets/90f2602a-c910-4d4a-bf66-2563565a6956)
 
 
@@ -62,16 +62,12 @@ https://vm.tiktok.com/ZMke2V9HD/
 
 ## Coevaluación:
 
-Mi compañero Miguel Ángel durante el proyecto, fue muy responsable al momento de ver que cosas o materiales necesitabamos, lo que nos ayudó a avanzar más rápido. También propuso ideas de mejora, varias de sus aportaciones reesolvieron problemas y mejoraron el resultado final. Cuando trabajábamos juntos, colabororo con lo que se tenia que hacer en el trabajo.
-
-Por otro lado, hubo momentos en los que me pareció que se desesperaba mucho, por que no salian bien las cosas, y eso generó algunos errores que luego tuvimos que corregir. También creo que, en ciertas ocasiones, no estuvo tan deacuerdo en ideas que propuse, sobre todo cuando ya estábamos cerca de la fecha de entrega.
-
-Creo que Miguel Ángel podría trabajar en ser un poco más empatico y aprender a escuchar ideas de los demas sobre todo cuando se le dice algo en lo que esta mal. Aun así, su participación fue muy buena y ayudó mucho a que se lograra este proyecto.
+Mi......
 
 
 
 
-## Capturas de Evaluaciones de Curso de JavaScript
+## Capturas de Evaluaciones de Curso de Python
 
 ### Examen Módulo 1
 <img src="https://github.com/user-attachments/assets/7e11ba68-8f1e-4caf-8794-24062e94e0a5" width="600" alt="Examen Módulo 2"/>

@@ -368,7 +368,7 @@ CREATE TABLE actuator_details (
 
 
 # CRUD en PostgreSQL
-https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sharing
+# https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sharing
 
 # Videos Demostrativos de los ejercicios individuales
 

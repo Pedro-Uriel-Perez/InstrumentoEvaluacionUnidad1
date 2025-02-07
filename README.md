@@ -55,14 +55,6 @@ https://vm.tiktok.com/ZMke2V9HD/
 
 
 
-
-## Coevaluación:
-
-Mi......
-
-
-
-
 ## Capturas de Evaluaciones de Curso de Python Fundamentals 2
 
 ### Examen Módulo 1

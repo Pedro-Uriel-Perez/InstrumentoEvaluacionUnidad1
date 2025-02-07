@@ -384,7 +384,9 @@ https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sha
 ## Videos Demostrativos de los ejercicios individuales
 https://drive.google.com/drive/folders/1no93ATnBk6CoKC8oaRVlQJa56m7xKZ6H?usp=sharing
 
+[Button_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
 # Button_gpiozero
+
 # Button_pigpio
 # Led_pigpio
 # Let_gpiozero

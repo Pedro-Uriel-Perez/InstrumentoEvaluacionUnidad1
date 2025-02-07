@@ -14,6 +14,7 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 |-------------------------|-----------------------------------------------------------------------|
 | ESP32                   | <img src="https://github.com/user-attachments/assets/f3099b50-c652-436f-bd88-ca77c850709a" width="150" /> |
 | Sensor HC-SR04           | <img src="https://www.geekfactory.mx/wp-content/uploads/pinout-o-patillaje-sensor-hc-sr04.jpg" width="150" />    |
+| Protoboard              | <img src="https://aelectronics.com.mx/893/protoboard-blanca-de-830-puntos.jpg" width="150" />     |
 
 https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
 

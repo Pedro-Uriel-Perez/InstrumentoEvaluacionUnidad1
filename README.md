@@ -372,12 +372,12 @@ CREATE TABLE actuator_details (
 
 # Videos Demostrativos de los ejercicios individuales
 
-# [Button_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
-# [Button_pigpio](https://drive.google.com/file/d/18eZWBnwjZnYfZdq-M8H7aB1pzH8Ae0TH/view?usp=drive_link)
-# [Led_pigpio](https://drive.google.com/file/d/149ihfkejvCFi8UhSLwsAaRnA7x8RPFOw/view?usp=drive_link)
-# [Let_gpiozero](https://drive.google.com/file/d/1TsMygmEtwHeRLzsCJyU1b-1Jx806XAPY/view?usp=drive_link)
-# [Instalación y Configuraciones Básicas](https://drive.google.com/file/d/16CI9v2FEhKU4_qPN3p96XlsLyfAJSfV5/view?usp=drive_link)
-# [Configuración de un sistema de publicación y suscripción con Mosquitt](Aqui va el video)
+## [Button_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
+## [Button_pigpio](https://drive.google.com/file/d/18eZWBnwjZnYfZdq-M8H7aB1pzH8Ae0TH/view?usp=drive_link)
+## [Led_pigpio](https://drive.google.com/file/d/149ihfkejvCFi8UhSLwsAaRnA7x8RPFOw/view?usp=drive_link)
+## [Let_gpiozero](https://drive.google.com/file/d/1TsMygmEtwHeRLzsCJyU1b-1Jx806XAPY/view?usp=drive_link)
+## [Instalación y Configuraciones Básicas](https://drive.google.com/file/d/16CI9v2FEhKU4_qPN3p96XlsLyfAJSfV5/view?usp=drive_link)
+## [Configuración de un sistema de publicación y suscripción con Mosquitt](Aqui va el video)
 
 
 

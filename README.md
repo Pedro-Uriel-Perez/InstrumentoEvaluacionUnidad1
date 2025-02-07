@@ -310,9 +310,49 @@ if __name__ == "__main__":
     main()
 
 ```
--Python
--Node-red
--BD Postgres
+```postgres
+-- Tabla de usuarios
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    email VARCHAR(100),
+    clave VARCHAR(255),
+    record_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Tabla de sensores
+CREATE TABLE sensors (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(50),
+    type VARCHAR(50),
+    record_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Tabla de detalles de sensores
+CREATE TABLE sensor_details (
+    id SERIAL PRIMARY KEY,
+    sensor_id INTEGER REFERENCES sensors(id),
+    user_id INTEGER REFERENCES users(id),
+    value VARCHAR(50),
+    record_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Tabla de actuadores
+CREATE TABLE actuators (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(50),
+    type VARCHAR(50),
+    record_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Tabla de detalles de actuadores
+CREATE TABLE actuator_details (
+    id SERIAL PRIMARY KEY,
+    actuator_id INTEGER REFERENCES actuators(id),
+    user_id INTEGER REFERENCES users(id),
+    state VARCHAR(50),
+    record_at TIMESTAMP DEFAULT NOW()
+);
+```
 
 # Materiales utilizados
 | Material                | Imagen                                                                 

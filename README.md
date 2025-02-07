@@ -7,10 +7,9 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 - **N.Control:**  1223100428
 - **Materia:**  Aplicaciones de IoT
 
+# PARTE PRÁCTICA
+## Almacenamiento de Datos y Control de Actuadores 
 
-# Almacenamiento de Datos
-Diseña un sistema IoT que capture datos desde un sensor (libre elección) y los almacene en:
-Base de datos PostgreSQL mediante Node-RED.
 # Video Demostrativo
 https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
 # Codigo JSON 

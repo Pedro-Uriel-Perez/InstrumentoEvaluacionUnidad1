@@ -362,6 +362,7 @@ CREATE TABLE actuator_details (
 | ESP32                   | <img src="https://github.com/user-attachments/assets/f3099b50-c652-436f-bd88-ca77c850709a" width="150" /> |
 | Sensor HC-SR04           | <img src="https://www.geekfactory.mx/wp-content/uploads/pinout-o-patillaje-sensor-hc-sr04.jpg" width="150" />    |
 | Protoboard              | <img src="https://github.com/user-attachments/assets/0870c689-bc56-420d-8460-bae81f7221cb" width="150" />     |
+| Boton              | <img src="https://github.com/user-attachments/assets/0689a889-53df-4bf9-b9a7-76cee842c42c" width="150" />     |
 
 
 ## INFORMACION AQUI
@@ -381,7 +382,7 @@ https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=dri
 # CRUD en PostgreSQL
 https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sharing
 
-## Videos Demostrativos de los ejercicios individuales
+# Videos Demostrativos de los ejercicios individuales
 
 # [Button_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
 # [Button_pigpio](https://drive.google.com/file/d/18eZWBnwjZnYfZdq-M8H7aB1pzH8Ae0TH/view?usp=drive_link)

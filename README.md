@@ -410,4 +410,4 @@ https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sha
 <img src="https://github.com/user-attachments/assets/00db0fc9-06d9-4791-aaee-b55e8c545136" width="600" alt="Examen Módulo 4"/>
 
 ### Examen Final
-<img src="https://github.com/user-attachments/assets/2131cd27-90c1-4b1e-8cec-dbcb908872e4" width="600" alt="Examen Final"/>
+<img src="https://github.com/user-attachments/assets/5565fe5a-6f70-430a-a690-2039a3366f35" width="600" alt="Examen Final"/>

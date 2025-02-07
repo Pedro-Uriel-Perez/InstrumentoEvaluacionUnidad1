@@ -176,6 +176,7 @@ https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sha
     }
 ]
 ```
+# Codigo Python
 ```python
 from machine import Pin, time_pulse_us, reset
 import network
@@ -310,6 +311,7 @@ if __name__ == "__main__":
     main()
 
 ```
+# Codigo Postgres
 ```postgres
 -- Tabla de usuarios
 CREATE TABLE users (

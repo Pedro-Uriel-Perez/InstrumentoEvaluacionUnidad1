@@ -381,8 +381,7 @@ https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sha
 # [Configuración de un sistema de publicación y suscripción con Mosquitt](Aqui va el video)
 
 
-# Para poner videos
-https://vm.tiktok.com/ZMke2V9HD/
+
 
 # Figura Copa
 <img src="https://github.com/user-attachments/assets/097c481a-faf7-4c37-9366-7346c1529388" alt="Oogie Boogie" width="250">

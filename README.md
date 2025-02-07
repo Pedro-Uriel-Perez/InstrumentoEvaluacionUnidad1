@@ -13,7 +13,7 @@ Diseña un sistema IoT que capture datos desde un sensor (libre elección) y los
 Base de datos PostgreSQL mediante Node-RED.
 # Video Demostrativo
 https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
-# Codigos
+# Codigo JSON 
 ```json
 [
     {

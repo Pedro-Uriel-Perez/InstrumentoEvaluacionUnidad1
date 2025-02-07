@@ -11,7 +11,10 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 ## Almacenamiento de Datos
 # Video Demostrativo
 https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
-#Codigos
+# Codigos
+-Python
+-Node-red
+-BD Postgres
 
 # Materiales utilizados
 | Material                | Imagen                                                                 

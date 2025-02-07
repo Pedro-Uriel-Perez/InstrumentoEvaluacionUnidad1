@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=dri
 
 
 # Imagen AQUI
-<img src="https://github.com/user-attachments/assets/09cacb74-231c-4d00-81cc-1994c6237ecd" alt="Oogie Boogie" width="250">
+<img src="https://github.com/assets/8358b9a9-5d39-4583-8421-015ac53ab32a" alt="Oogie Boogie" width="250">
 
 # Para poner videos
 https://drive.google.com/drive/folders/1WNjS2-SH8_HnzyehVCT07pBtgmkf98uG?usp=sharing
@@ -53,8 +53,11 @@ https://drive.google.com/drive/folders/1WNjS2-SH8_HnzyehVCT07pBtgmkf98uG?usp=sha
 # Para poner videos
 https://vm.tiktok.com/ZMke2V9HD/
 
-# Imagen AQUI
-![imagen](https://github.com/user-attachments/assets/90f2602a-c910-4d4a-bf66-2563565a6956)
+# Figura Copa
+<img src="https://github.com/user-attachments/assets/097c481a-faf7-4c37-9366-7346c1529388" alt="Oogie Boogie" width="250">
+
+# Soldadura de placa
+<img src="https://github.com/user-attachments/assets/8358b9a9-5d39-4583-8421-015ac53ab32a" alt="Oogie Boogie" width="250">
 
 
 

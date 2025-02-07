@@ -311,7 +311,7 @@ if __name__ == "__main__":
     main()
 
 ```
-# Codigo Postgres
+# Base de Datos Postgres
 ```postgres
 -- Tabla de usuarios
 CREATE TABLE users (
@@ -365,17 +365,6 @@ CREATE TABLE actuator_details (
 | Boton              | <img src="https://github.com/user-attachments/assets/0689a889-53df-4bf9-b9a7-76cee842c42c" width="150" />     |
 
 
-## INFORMACION AQUI
-https://drive.google.com/drive/folders/1X6jZeg_6ULijYEA6FLuTeC4TZpiH4qyW?usp=drive_link
-
-# INFORMACION AQUI
-https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=drive_link
-
-## Materiales utilizados:
-
-
-
-
 
 
 
@@ -383,7 +372,6 @@ https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=dri
 https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sharing
 
 # Videos Demostrativos de los ejercicios individuales
-
 
 # [Button_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
 # [Button_pigpio](https://drive.google.com/file/d/18eZWBnwjZnYfZdq-M8H7aB1pzH8Ae0TH/view?usp=drive_link)

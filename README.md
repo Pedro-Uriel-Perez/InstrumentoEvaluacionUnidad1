@@ -3,7 +3,7 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 
 ## Información
 - **Alumno:** Pedro Uriel Pérez Monzón
-- **Grupo:** GDS0643
+- **Grupo:** GDS0653
 - **N.Control:**  1223100428
 - **Materia:**  Aplicaciones de IoT
 
@@ -384,12 +384,13 @@ https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sha
 
 # Videos Demostrativos de los ejercicios individuales
 
+
 # [Button_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
 # [Button_pigpio](https://drive.google.com/file/d/18eZWBnwjZnYfZdq-M8H7aB1pzH8Ae0TH/view?usp=drive_link)
 # [Led_pigpio](https://drive.google.com/file/d/149ihfkejvCFi8UhSLwsAaRnA7x8RPFOw/view?usp=drive_link)
 # [Let_gpiozero](https://drive.google.com/file/d/1TsMygmEtwHeRLzsCJyU1b-1Jx806XAPY/view?usp=drive_link)
-
-
+# [Instalación y Configuraciones Básicas](https://drive.google.com/file/d/16CI9v2FEhKU4_qPN3p96XlsLyfAJSfV5/view?usp=drive_link)
+# [Configuración de un sistema de publicación y suscripción con Mosquitt](Aqui va el video)
 
 
 # Para poner videos
@@ -398,11 +399,10 @@ https://vm.tiktok.com/ZMke2V9HD/
 # Figura Copa
 <img src="https://github.com/user-attachments/assets/097c481a-faf7-4c37-9366-7346c1529388" alt="Oogie Boogie" width="250">
 
-# 
-<img src="" alt="Oogie Boogie" width="250">
+
 
 ## Soldadura de Placa Fenólica
-| Imagen 1 | Imagen 2 |
+| Imagen Uno | Imagen Dos |
 |----------|----------|
 |![Imagen de WhatsApp 2025-02-07 a las 10 42 37_f6588a44](https://github.com/user-attachments/assets/8358b9a9-5d39-4583-8421-015ac53ab32a)|![Imagen de WhatsApp 2025-02-07 a las 10 42 37_b0a23419](https://github.com/user-attachments/assets/ab02f694-28e6-4401-93b9-dbaf6842f64a)|
 

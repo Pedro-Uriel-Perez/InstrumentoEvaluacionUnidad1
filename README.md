@@ -46,26 +46,26 @@ https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sha
         ]
     },
     {
-        "id": "prepare-data",
-        "type": "function",
-        "z": "98b13d5a7684b802",
-        "name": "Preparar datos",
-        "func": "if (msg.payload && msg.payload.distancia) {\n    msg.topic = \"INSERT INTO sensor_details(sensor_id, user_id, value) VALUES($1, $2, $3)\";\n    msg.params = [1, 1, msg.payload.distancia];
-   return msg;\n} else {\n    return null;\n}\n",
-        "outputs": 1,
-        "timeout": "",
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 420,
-        "y": 100,
-        "wires": [
-            [
-                "postgres"
-            ]
+    "id": "prepare-data",
+    "type": "function",
+    "z": "98b13d5a7684b802",
+    "name": "Preparar datos",
+    "func": "if (msg.payload && msg.payload.distancia) {\n    msg.topic = \"INSERT INTO sensor_details(sensor_id, user_id, value) VALUES($1, $2, $3)\";\n    msg.params = [1, 1, msg.payload.distancia];\n    return msg;\n} else {\n    return null;\n}",
+    "outputs": 1,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 420,
+    "y": 100,
+    "wires": [
+        [
+            "postgres"
         ]
-    },
+    ]
+},
+
     {
         "id": "postgres",
         "type": "postgresql",

@@ -9,11 +9,11 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 
 # Códigos:
 ## Almacenamiento de Datos
-#Video Demostrativo
+# Video Demostrativo
 https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
 #Codigos
 
-#Materiales utilizados
+# Materiales utilizados
 | Material                | Imagen                                                                 
 |-------------------------|-----------------------------------------------------------------------|
 | ESP32                   | <img src="https://github.com/user-attachments/assets/f3099b50-c652-436f-bd88-ca77c850709a" width="150" /> |

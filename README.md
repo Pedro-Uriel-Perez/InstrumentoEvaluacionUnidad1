@@ -382,14 +382,12 @@ https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=dri
 https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sharing
 
 ## Videos Demostrativos de los ejercicios individuales
-https://drive.google.com/drive/folders/1no93ATnBk6CoKC8oaRVlQJa56m7xKZ6H?usp=sharing
 
-[Button_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
-# Button_gpiozero
+# [Button_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
+[Button_pigpio](https://drive.google.com/file/d/18eZWBnwjZnYfZdq-M8H7aB1pzH8Ae0TH/view?usp=drive_link)
+[Led_pigpio](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
+[Let_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
 
-# Button_pigpio
-# Led_pigpio
-# Let_gpiozero
 
 [CRUD en PostgreSQL](https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=drive_link)
 - [Instalación y Configuraciones Básicas](https://drive.google.com/file/d/16CI9v2FEhKU4_qPN3p96XlsLyfAJSfV5/view?usp=drive_link)

@@ -176,7 +176,140 @@ https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sha
     }
 ]
 ```
+```python
+from machine import Pin, time_pulse_us, reset
+import network
+import time
+from umqtt.robust import MQTTClient  
+import json
 
+# Configuración WiFi
+SSID = "MORENO"
+PASSWORD = "MMPM0607"
+
+# Configuración MQTT
+MQTT_SERVER = "broker.emqx.io"
+MQTT_PORT = 1883
+MQTT_TOPIC = b"sensor/proximidad"
+CLIENT_ID = "ESP32Client"
+
+# Configuración del sensor HC-SR04
+TRIG_PIN = 16
+ECHO_PIN = 4
+
+def conectar_wifi():
+    """Conecta el ESP32 a la red WiFi"""
+    wlan = network.WLAN(network.STA_IF)
+    wlan.active(True)
+    if not wlan.isconnected():
+        print('Conectando a WiFi...')
+        wlan.connect(SSID, PASSWORD)
+        while not wlan.isconnected():
+            time.sleep(0.5)
+            print('.', end='')
+    print('\nConectado a WiFi')
+    print('Dirección IP:', wlan.ifconfig()[0])
+
+def medir_distancia(trigger, echo):
+    """Mide la distancia usando el sensor HC-SR04"""
+    try:
+        # Enviar pulso
+        trigger.value(0)
+        time.sleep_us(2)
+        trigger.value(1)
+        time.sleep_us(10)
+        trigger.value(0)
+        
+        # Medir el tiempo del pulso
+        duration = time_pulse_us(echo, 1, 30000)  # Timeout de 30ms
+        
+        # Calcular distancia en cm
+        if duration > 0:
+            distance = duration * 0.034 / 2
+            return distance
+        return None
+    except Exception as e:
+        print(f"Error midiendo distancia: {e}")
+        return None
+
+def conectar_mqtt():
+    """Conecta al broker MQTT y retorna el cliente"""
+    try:
+        # Usar MQTTClient de umqtt.robust
+        client = MQTTClient(CLIENT_ID, MQTT_SERVER, MQTT_PORT, keepalive=30)
+        client.connect(clean_session=True)
+        print("Conectado a MQTT")
+        return client
+    except Exception as e:
+        print(f"Error conectando a MQTT: {e}")
+        return None
+
+def main():
+    try:
+        # Inicializar pines
+        trigger = Pin(TRIG_PIN, Pin.OUT)
+        echo = Pin(ECHO_PIN, Pin.IN)
+        
+        # Conectar a WiFi
+        conectar_wifi()
+        
+        # Iniciar cliente MQTT
+        client = None
+        reconnect_count = 0
+        
+        while True:
+            try:
+                # Reconectar MQTT si es necesario
+                if client is None:
+                    if reconnect_count >= 3:
+                        print("Demasiados intentos de reconexión, reiniciando...")
+                        reset()
+                    client = conectar_mqtt()
+                    if client is None:
+                        reconnect_count += 1
+                        time.sleep(5)
+                        continue
+                    reconnect_count = 0
+                
+                # Medir distancia
+                distancia = medir_distancia(trigger, echo)
+                
+                if distancia is not None:
+                    # Crear mensaje JSON
+                    mensaje = {
+                        "sensor": "proximidad",
+                        "distancia": distancia,
+                        "unidad": "cm",
+                        "timestamp": time.time()
+                    }
+                    
+                    # Convertir a JSON y publicar
+                    mensaje_json = json.dumps(mensaje)
+                    print("Mensaje enviado:", mensaje_json)  # Añadir este print para debug
+
+                    try:
+                        client.publish(MQTT_TOPIC, mensaje_json.encode())
+                        print(f"Distancia medida: {distancia} cm")
+                        client.ping()  # Mantener la conexión viva
+                    except Exception as e:
+                        print(f"Error publicando mensaje: {e}")
+                        client = None  # Forzar reconexión
+                
+                time.sleep(5)  # Esperar 5 segundos entre mediciones
+                
+            except Exception as e:
+                print(f"Error en el loop principal: {e}")
+                client = None
+                time.sleep(5)	
+                
+    except Exception as e:
+        print(f"Error fatal: {e}")
+        reset()
+
+if __name__ == "__main__":
+    main()
+
+```
 -Python
 -Node-red
 -BD Postgres

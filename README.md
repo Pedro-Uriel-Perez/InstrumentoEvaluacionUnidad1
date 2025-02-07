@@ -381,9 +381,13 @@ https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=dri
 # CRUD en PostgreSQL
 https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sharing
 
-## Videos Demostrativos de los 4 videos
-# Button_gpiozero, Button_pigpio, Led_pigpio, Let_gpiozero
+## Videos Demostrativos de los ejercicios individuales
 https://drive.google.com/drive/folders/1no93ATnBk6CoKC8oaRVlQJa56m7xKZ6H?usp=sharing
+
+# Button_gpiozero
+# Button_pigpio
+# Led_pigpio
+# Let_gpiozero
 
 # Para poner videos
 https://vm.tiktok.com/ZMke2V9HD/

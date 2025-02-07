@@ -9,6 +9,12 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 
 # Códigos:
 ## Almacenamiento de Datos
+#Materiales utilizados
+| Material                | Imagen                                                                 
+|-------------------------|-----------------------------------------------------------------------|
+| ESP32                   | <img src="https://github.com/user-attachments/assets/f3099b50-c652-436f-bd88-ca77c850709a" width="150" /> |
+| Sensor HC-SR04           | <img src="https://www.geekfactory.mx/wp-content/uploads/pinout-o-patillaje-sensor-hc-sr04.jpg" width="150" />    |
+
 https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
 
 ## INFORMACION AQUI
@@ -19,11 +25,7 @@ https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=dri
 
 ## Materiales utilizados:
 
-| Material                | Imagen                                                                 | Cantidad | Costo |
-|-------------------------|------------------------------------------------------------------------|----------|-------|
-| ESP32                   | <img src="https://github.com/user-attachments/assets/f3099b50-c652-436f-bd88-ca77c850709a" width="150" /> | 3        | $396   |
-| ESP32S3         | <img src="https://github.com/user-attachments/assets/e61bab9d-bcae-42d2-890f-290e337a519c" width="150" />     | 1        | $200    |
-| Motor Servo             | <img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/196043d46/micro-servomotor-con-torque-de-1-8-kgf-cm.jpg" width="150" />    | 3        | $200    |
+
 | Series Led          | <img src="https://github.com/user-attachments/assets/7d20e8b6-bbbf-4d4b-b657-8143ec00bcb3" width="150" />   | 2        | $120    |
 | Buzzer                  | <img src="https://uelectronics.com/wp-content/uploads/2018/02/AR0355-Buzzer_v3.jpg" width="150" />         | 1        | $35    |
 | Cables y conectores     | <img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/19453a19e/juego-de-80-cables-de-15-cm-tipo-dupont.jpg" width="100" /> | 5 sets    | $100    |

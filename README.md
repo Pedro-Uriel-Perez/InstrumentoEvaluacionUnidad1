@@ -384,16 +384,12 @@ https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sha
 ## Videos Demostrativos de los ejercicios individuales
 
 # [Button_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
-[Button_pigpio](https://drive.google.com/file/d/18eZWBnwjZnYfZdq-M8H7aB1pzH8Ae0TH/view?usp=drive_link)
-[Led_pigpio](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
-[Let_gpiozero](https://drive.google.com/file/d/1-m9GogI56a76HYkOtml2_t5jZCQIheaJ/view?usp=drive_link)
+# [Button_pigpio](https://drive.google.com/file/d/18eZWBnwjZnYfZdq-M8H7aB1pzH8Ae0TH/view?usp=drive_link)
+# [Led_pigpio](https://drive.google.com/file/d/149ihfkejvCFi8UhSLwsAaRnA7x8RPFOw/view?usp=drive_link)
+# [Let_gpiozero](https://drive.google.com/file/d/1TsMygmEtwHeRLzsCJyU1b-1Jx806XAPY/view?usp=drive_link)
 
 
-[CRUD en PostgreSQL](https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=drive_link)
-- [Instalación y Configuraciones Básicas](https://drive.google.com/file/d/16CI9v2FEhKU4_qPN3p96XlsLyfAJSfV5/view?usp=drive_link)
-- [LED y Botón con Raspberry Pi](https://drive.google.com/file/d/1LDSNreH223prNx8Q7Yzjva9aW6vR8lIO/view?usp=drive_link)
-- [LED con Raspberry Pi](https://drive.google.com/file/d/1k8_ygdkSOHWrOXoa1LoVQC-LuSm0Ei4v/view?usp=drive_link)
-- [Conexión MQTT en Node-RED](https://drive.google.com/file/d/1P6hpbPVd6mowNhcBRhz3o0vhynZU9-ww/view?usp=drive_link)
+
 
 # Para poner videos
 https://vm.tiktok.com/ZMke2V9HD/

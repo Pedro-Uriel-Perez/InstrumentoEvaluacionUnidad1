@@ -398,9 +398,13 @@ https://vm.tiktok.com/ZMke2V9HD/
 # Figura Copa
 <img src="https://github.com/user-attachments/assets/097c481a-faf7-4c37-9366-7346c1529388" alt="Oogie Boogie" width="250">
 
-# Soldadura de placa
-<img src="https://github.com/user-attachments/assets/8358b9a9-5d39-4583-8421-015ac53ab32a" alt="Oogie Boogie" width="250">
+# 
+<img src="" alt="Oogie Boogie" width="250">
 
+## Soldadura de Placa Fenólica
+| Imagen 1 | Imagen 2 |
+|----------|----------|
+|![Imagen de WhatsApp 2025-02-07 a las 10 42 37_f6588a44](https://github.com/user-attachments/assets/8358b9a9-5d39-4583-8421-015ac53ab32a)|![Imagen de WhatsApp 2025-02-07 a las 10 42 37_b0a23419](![Imagen de WhatsApp 2025-02-06 a las 19 28 55_d8f0d54b](https://github.com/user-attachments/assets/ab02f694-28e6-4401-93b9-dbaf6842f64a)|
 
 
 

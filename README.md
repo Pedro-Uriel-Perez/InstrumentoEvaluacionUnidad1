@@ -12,9 +12,9 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 
 # Video Demostrativo
 https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
-
-## 1. [Codigo Python](https://github.com/Pedro-Uriel-Perez/InstrumentoEvaluacionUnidad1/blob/main/Almacenamiento%20de%20Datos%20y%20Control%20de%20Actuadores.py)
-## 2. [Codigo JSON](https://github.com/Pedro-Uriel-Perez/InstrumentoEvaluacionUnidad1/blob/main/Sensor_details.json)
+## 1. [Video Demostrativo](https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing)
+## 2. [Codigo Python](https://github.com/Pedro-Uriel-Perez/InstrumentoEvaluacionUnidad1/blob/main/Almacenamiento%20de%20Datos%20y%20Control%20de%20Actuadores.py)
+## 3. [Codigo JSON](https://github.com/Pedro-Uriel-Perez/InstrumentoEvaluacionUnidad1/blob/main/Sensor_details.json)
 
 
 # Materiales utilizados

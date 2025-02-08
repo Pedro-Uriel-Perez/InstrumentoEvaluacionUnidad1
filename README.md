@@ -377,7 +377,7 @@ CREATE TABLE actuator_details (
 ## [Led_pigpio](https://drive.google.com/file/d/149ihfkejvCFi8UhSLwsAaRnA7x8RPFOw/view?usp=drive_link)
 ## [Let_gpiozero](https://drive.google.com/file/d/1TsMygmEtwHeRLzsCJyU1b-1Jx806XAPY/view?usp=drive_link)
 ## [Instalación y Configuraciones Básicas](https://drive.google.com/file/d/16CI9v2FEhKU4_qPN3p96XlsLyfAJSfV5/view?usp=drive_link)
-## [Configuración de un sistema de publicación y suscripción con Mosquitt](Aqui va el video)
+## [Configuración de un sistema de publicación y suscripción con Mosquitt](https://drive.google.com/file/d/1g1PuSUt6asZlpDrVt9v7jd7B2a0Bn48j/view?usp=drive_link)
 
 
 

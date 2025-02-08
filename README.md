@@ -28,8 +28,7 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 <img src="https://github.com/user-attachments/assets/b443a488-b885-4f68-b161-0f7bf35e3d8d" width="600" alt="Examen Módulo 2"/>
 
 
-# CRUD en PostgreSQL
-## https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sharing
+
 
 # Videos Demostrativos de los ejercicios individuales
 
@@ -40,7 +39,8 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 ## [Instalación y Configuraciones Básicas](https://drive.google.com/file/d/16CI9v2FEhKU4_qPN3p96XlsLyfAJSfV5/view?usp=drive_link)
 ## [Configuración de un sistema de publicación y suscripción con Mosquitt](https://drive.google.com/file/d/1g1PuSUt6asZlpDrVt9v7jd7B2a0Bn48j/view?usp=drive_link)
 
-
+# CRUD en PostgreSQL
+## https://drive.google.com/drive/folders/1VB7PM8NzoIkO7pQpWmZ1pTyqPlA6zpBx?usp=sharing
 
 
 # Figura Copa

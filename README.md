@@ -13,19 +13,17 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 # Video Demostrativo
 https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
 
+## 1. [Codigo Python](https://github.com/Pedro-Uriel-Perez/InstrumentoEvaluacionUnidad1/blob/main/Almacenamiento%20de%20Datos%20y%20Control%20de%20Actuadores.py)
+## 2. [Codigo JSON](https://github.com/Pedro-Uriel-Perez/InstrumentoEvaluacionUnidad1/blob/main/Sensor_details.json)
 
-### 1. [Codigo JSON](https://github.com/Pedro-Uriel-Perez/InstrumentoEvaluacionUnidad1/blob/main/Sensor_details.json)
-# Codigo JSON 
 
-# Codigo Python
-# Base de Datos Postgres
 # Materiales utilizados
 | Material                | Imagen                                                                 
 |-------------------------|-----------------------------------------------------------------------|
 | ESP32                   | <img src="https://github.com/user-attachments/assets/f3099b50-c652-436f-bd88-ca77c850709a" width="150" /> |
 | Sensor HC-SR04           | <img src="https://www.geekfactory.mx/wp-content/uploads/pinout-o-patillaje-sensor-hc-sr04.jpg" width="150" />    |
 | Protoboard              | <img src="https://github.com/user-attachments/assets/0870c689-bc56-420d-8460-bae81f7221cb" width="150" />     |
-| Boton              | <img src="https://github.com/user-attachments/assets/0689a889-53df-4bf9-b9a7-76cee842c42c" width="150" />     |
+| Leds              | <img src="https://github.com/user-attachments/assets/de10e3ea-d100-45b1-a749-a47157aa79cb" width="150" />     |
 
 
 

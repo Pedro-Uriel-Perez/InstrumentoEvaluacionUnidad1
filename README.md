@@ -24,7 +24,7 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 | Leds              | <img src="https://github.com/user-attachments/assets/de10e3ea-d100-45b1-a749-a47157aa79cb" width="150" />     |
 
 
-### Conexiones
+### Circuitos 
 <img src="https://github.com/user-attachments/assets/b443a488-b885-4f68-b161-0f7bf35e3d8d" width="600" alt="Examen Módulo 2"/>
 
 

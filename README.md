@@ -7,11 +7,9 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 - **N.Control:**  1223100428
 - **Materia:**  Aplicaciones de IoT
 
-# PARTE PRÁCTICA
-## Almacenamiento de Datos y Control de Actuadores 
+# PARTE PRÁCTICA.
+## Ejercicio 1: Almacenamiento de Datos y Ejercicio 2: Control de Actuadores 
 
-# Video Demostrativo
-https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
 ## 1. [Video Demostrativo](https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing)
 ## 2. [Codigo Python](https://github.com/Pedro-Uriel-Perez/InstrumentoEvaluacionUnidad1/blob/main/Almacenamiento%20de%20Datos%20y%20Control%20de%20Actuadores.py)
 ## 3. [Codigo JSON](https://github.com/Pedro-Uriel-Perez/InstrumentoEvaluacionUnidad1/blob/main/Sensor_details.json)
@@ -26,7 +24,8 @@ https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sha
 | Leds              | <img src="https://github.com/user-attachments/assets/de10e3ea-d100-45b1-a749-a47157aa79cb" width="150" />     |
 
 
-
+### Conexiones
+<img src="https://github.com/user-attachments/assets/b443a488-b885-4f68-b161-0f7bf35e3d8d" width="600" alt="Examen Módulo 2"/>
 
 
 # CRUD en PostgreSQL

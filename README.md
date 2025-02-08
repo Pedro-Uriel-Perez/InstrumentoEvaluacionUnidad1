@@ -12,6 +12,9 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 
 # Video Demostrativo
 https://drive.google.com/drive/folders/1kxQg-n06zx9qULW40_sXRukujDZvkuuc?usp=sharing
+
+
+### 1. [Codigo JSON](https://github.com/Pedro-Uriel-Perez/Instrumento-Evaluacion-Unidad-ll---Pedro-Uriel-Perez-Monzon/blob/main/Ejercicio_Practico_Integral/Sistema%20de%20Alerta%20de%20Temperatura%20y%20Humedad%20en%20Invernadero.md)
 # Codigo JSON 
 
 # Codigo Python
